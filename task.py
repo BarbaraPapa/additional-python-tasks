@@ -90,6 +90,7 @@ def update_status():
 add_aircraft()
 update_status()
 
+
 # Display the updated aircraft data
 print("Displaying updated aircraft data:")
 display_flight_data(aircraft_data)
