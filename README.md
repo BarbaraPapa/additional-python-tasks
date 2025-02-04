@@ -1,8 +1,8 @@
 # additional-python-tasks
 ***
 ***
-# Task 1
-**<span style="color: windowtext;">Task for Students: Build Your Own Flight Data System</span>**
+
+# **Build Your Own Flight Data System**
 
 **<span style="color: windowtext;">Objective:</span>**
 
